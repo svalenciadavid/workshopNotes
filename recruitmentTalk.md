@@ -1,4 +1,4 @@
-# Recruiters Talk
+# Recruitment talk
 
 ## Types:
 
@@ -29,7 +29,7 @@ Feedback after interview is on phone call.
 
 - Send resume to jaclyn
 
-----
+---------
 
 ## Resume tips
 
@@ -85,8 +85,10 @@ Equation for writing resume: Accomplished [x] As measured by [y] by doing [z] --
 - Apply for what's right for you!!
 - Try different roles, be open with your manager
 
+--------
+
 ## Resources
 
 * g.co/techdive
 * "Google Students" Youtube channel
-* 
+*
