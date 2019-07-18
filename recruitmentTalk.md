@@ -24,7 +24,7 @@ Feedback after interview is on phone call.
 ## When you apply  
 
 ~ Remember to apply to the Engineering Practicum
-1. [google.com/students](google.com/students)
+1. [google.com/students](https://careers.google.com/students/)
 2. Upload resume and transcript
 
 - Send resume to jaclyn
