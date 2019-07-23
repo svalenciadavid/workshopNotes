@@ -2,7 +2,7 @@
 Tailors content to the individual students location, degree level, background, experience and interest  -> Everything google related
 - Monthly newsletter
 
-[Invite-Link](https://goo.gle/CwG-CSSI)
+[Invite-Link](https://www.goo.gle/CwG-CSSI)
 
 ## Features
 * Tech interviews
